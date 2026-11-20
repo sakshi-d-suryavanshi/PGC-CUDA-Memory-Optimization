@@ -253,6 +253,22 @@ The experiment was executed on an NVIDIA RTX 4500 Ada Generation GPU with comput
 | Transpose speedup | 1.93× | 1.95× | 1.95× | **1.94×** |
 | Matrix multiplication (GFLOPS) | 2397.9 | 2407.8 | 2408.4 | **2404.7** |
 
+
+## Experimental Results
+
+### Screenshot 1
+
+<p align="center">
+  <img src="https://github.com/sakshi-d-suryavanshi/PGC-CUDA-Memory-Optimization/blob/main/Screenshots/Screenshot%202026-11-20%20044939.png" width="700">
+</p>
+
+### Screenshot 2
+
+<p align="center">
+  <img src="https://github.com/sakshi-d-suryavanshi/PGC-CUDA-Memory-Optimization/blob/main/Screenshots/Screenshot%202026-11-20%20045237.png" width="700">
+</p>
+
+
 ### 8.2 Observation Table
 
 | Kernel | Matrix Size | Average Time | Speedup | Performance | Result |
